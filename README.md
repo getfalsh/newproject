@@ -1,3 +1,1 @@
-# newprojectgfgefd
-
-test web project
+VUE.js第一个开发模板
